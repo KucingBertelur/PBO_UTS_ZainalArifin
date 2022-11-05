@@ -1,14 +1,18 @@
 # PBO_UTS_ZainalArifin
 UTS Pemrograman Berorientasi Objek
 
+File Praktikum2 Bermasalah jadi menggunakan format .Zip
+
 Spesifiikasi aplikasi :
 1. Apache NetBeans 15
    Versi 12.5.0.0
 2. Java
    jdk-18.0.2.1
   
-  Nama File           Nama Project
-  PRAKTIKUM 2      Praktikum2
+
+File
+PRAKTIKUM 2
+  	Praktikum2
 PRAKTIKUM 3
 	Praktikum3
 
